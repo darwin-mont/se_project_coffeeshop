@@ -4,7 +4,6 @@
   padding: 100px 80px 173px;
   display: flex;
   justify-content: space-between;
-
   font-family: "Inter", Arial, sans-serif;
   position: relative;
   overflow: hidden;
@@ -18,14 +17,12 @@
   font-size: 44px;
   line-height: 52px;
 }
-
 .about__content {
   max-width: 660px;
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
-
 .about__paragraph {
   margin: 0 0 20px;
 
@@ -35,7 +32,6 @@
   font-size: 20px;
   line-height: 30px;
 }
-
 .about__circle {
   position: absolute;
   background-color: #1878dc;
